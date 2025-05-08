@@ -9,8 +9,10 @@ Um bot do Discord peludo, caótico e fanático por bananas 🍌. O Macaco Bot é
 
 ## 🚀 Funcionalidades principais
 
-- `/test` — Testa se o bot está vivo com uma mensagem peluda.
+- `/test` — Testa se o bot está vivo.
 - `/interagir` — Interaja com outros membros usando ações como "bater", "acariciar" ou "dançar".
+- `/xingar ` — Faz o Bot te responder com uma mensagem agressiva.
+-  `/conversar ` — Ele 
 - `/macacometro` — Mede o nível de:
   - **Macacagem**
   - **Pelugem**
@@ -18,7 +20,6 @@ Um bot do Discord peludo, caótico e fanático por bananas 🍌. O Macaco Bot é
   - **Gritância**
   - **Caoticidade**
 
-Cada medição vem com frases personalizadas e emojis.
 
 ## 🛠 Instalação
 
@@ -37,8 +38,20 @@ npm install
 {
     "clientId": "",
     "guildId": "",
-	  "token": "",
+    "token": "",
     "geminiKey": ""
 }
+
+## 🛠 Inicialização
+
+1. Registre os comandos (slash commands) com a API do Discord:
+```bash
+node deploy-commands.js
+```
+2. Inicie o bot:
+```bash
+node index.js
+```
+
 
 
