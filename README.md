@@ -12,7 +12,7 @@ Um bot do Discord peludo, caótico e fanático por bananas 🍌. O Macaco Bot é
 - `/test` — Testa se o bot está vivo.
 - `/interagir` — Interaja com outros membros usando ações como "bater", "acariciar" ou "dançar".
 - `/xingar ` — Faz o Bot te responder com uma mensagem agressiva.
--  `/conversar ` — Ele 
+-  `/conversar ` — Dialogue com o bot!
 - `/macacometro` — Mede o nível de:
   - **Macacagem**
   - **Pelugem**
