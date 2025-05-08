@@ -1,0 +1,14 @@
+# Ignorar node_modules (pasta com dependências)
+node_modules/
+
+# Ignorar variáveis de ambiente e tokens
+.env
+config.json
+
+# Ignorar pastas de build ou logs
+dist/
+build/
+*.log
+
+# Ignorar configurações do VSCode
+.vscode/
